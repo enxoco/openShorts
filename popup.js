@@ -6,7 +6,7 @@
 
 shortToast.style.display = 'none'
 
-let serverUrl = 'https://nxone.co'
+let serverUrl = 'https://theopensuite.com'
 
   shorts.onsubmit = async (e) => {
     e.preventDefault();
@@ -27,7 +27,7 @@ let serverUrl = 'https://nxone.co'
     .then((response) => {
       let result = response
       shortToast.style.display = 'flex'
-      shortText.value = serverUrl + '/s/' + result.url
+      shortText.value = 'https://nxone.co' + '/s/' + result.url
     })
     .catch((error) => {
       shortToast.style.display = 'flex'

@@ -12,17 +12,17 @@
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "images/undraw_share_link_qtxe.png",
-      "32": "images/undraw_share_link_qtxe.png",
-      "48": "images/undraw_share_link_qtxe.png",
-      "128": "images/undraw_share_link_qtxe.png"
+      "16": "images/openshorts.png",
+      "32": "images/openshorts.png",
+      "48": "images/openshorts.png",
+      "128": "images/openshorts.png"
     }
   },
   "icons": {
-    "16": "images/undraw_share_link_qtxe.png",
-    "32": "images/undraw_share_link_qtxe.png",
-    "48": "images/undraw_share_link_qtxe.png",
-    "128": "images/undraw_share_link_qtxe.png"
+    "16": "images/openshorts.png",
+    "32": "images/openshorts.png",
+    "48": "images/openshorts.png",
+    "128": "images/openshorts.png"
   },
   "manifest_version": 2
 }
